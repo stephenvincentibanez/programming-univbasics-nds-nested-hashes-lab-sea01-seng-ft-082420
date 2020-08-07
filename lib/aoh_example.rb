@@ -21,6 +21,9 @@ def literal_aoh
 end
 
 def aoh_lookup(aoh, row, key)
+   character_array =
+  [DON_G, JOELLE_VD, PAT_M, KATE_G, BRUCE_G]
+  character_array[2][:name]
 end
 
 def aoh_update(aoh, row, key, new_value)
