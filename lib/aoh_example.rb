@@ -31,5 +31,5 @@ def aoh_update(aoh, row, key, new_value)
   # Return the updated AoH
    character_array =
   [DON_G, JOELLE_VD, PAT_M, KATE_G, BRUCE_G]
-  character_array[1][:name]="Joelle van Dyne (PGOAT)"
+  character_array[1][:name]="Joelle van Dyne"
 end
